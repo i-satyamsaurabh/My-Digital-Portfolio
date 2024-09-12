@@ -1,4 +1,0 @@
-chest=30
-chest-down=29
-b=31
-height=60
